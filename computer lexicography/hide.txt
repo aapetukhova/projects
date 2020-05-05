@@ -1,1 +1,1 @@
-"prog20" "annap" "sp4c31nv4d3r"
+prog20 annap sp4c31nv4d3r
