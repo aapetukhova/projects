@@ -1,8 +1,15 @@
 # projects
 This is a repository for other than programmming classes projects
 
+Materials for the term paper 'Code-switching and L1 Yakut bilinguals’ proficiency' are in this [folder](https://github.com/aapetukhova/projects/tree/master/language%20proficiency%20test).
 
-Materials for the course work 'Code-Switching in Yakut L1 Conversation' are in the same-named folder.
+Correlations were counted [here](https://github.com/aapetukhova/projects/blob/master/language%20proficiency%20test/correlations.ipynb).
+
+Data from the corpus was taken from the previous year's [research](https://github.com/aapetukhova/projects/tree/master/Code-Switching%20in%20Yakut%20L1%20Bilinguals).
+
+
+
+Materials for the term paper 'Code-Switching in Yakut L1 Conversation' are in the same-named folder.
 
 Corpus consists of .TextGrid files.
 
